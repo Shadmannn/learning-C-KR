@@ -18,5 +18,6 @@ This program determines the ranges of various data types (char, short, int, long
 
 ## How to Run
 To compile and run any exercise (e.g., Exercise 2-1):
+
 bash:
 gcc ex2_1.c -o ex2_1 && ex2_1
